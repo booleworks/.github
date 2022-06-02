@@ -1,0 +1,3 @@
+BooleWorks GmbH
+
+[BooleWorks](https://www.booleworks.com) is a young, Munich based, company that specialises in applying mathematical logic to configuration problems in highly configurable products like premium vehicles. The team at BooleWorks develops algorithms and methods for variant and complexity management. The resulting software helps customers to control, analyse, and visualise the enormous variability of their products. BooleWorks’ open source logic library [LogicNG](https://github.com/logic-ng/LogicNG) is integrated into companies’ central services and is used in configurator backends millions of times each day.
